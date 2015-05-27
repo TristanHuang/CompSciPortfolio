@@ -1,0 +1,39 @@
+/*
+    Document   : platformer.css
+    Created on : 2015-02-25 06:52 PM
+    Author     : Tristanh
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+body {
+    background-color:black;
+}
+
+.platform {
+    position:absolute;
+    top:100px;
+    height: 10px;
+    width: 3000px;
+    color: white;
+    border-style: dashed; 
+    border-color: blue;
+    background-color: black;
+}
+
+#player {
+    height: 28px;
+    width: 30px;
+    color: white;
+    border-style: dotted;
+    border-color: black;
+    background-color: #FF66CC
+}
+#player2 {
+    height: 28px;
+    width: 30px;
+    color: white;
+    border-style: dotted;
+    border-color: black;
+    background-color: #FF66CC
+}
